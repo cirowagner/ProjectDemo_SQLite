@@ -1,0 +1,10 @@
+create table people (
+ID int PRIMARY KEY NOT NULL,
+NAME text,
+FATHERLN text,
+MOTHERLN text,
+SEX text,
+MAIL text,
+DIRECTION text,
+DNI int
+);
